@@ -1,0 +1,1 @@
+pyinstaller --noconsole --onefile --hidden-import dblib --windowed --icon=lg_2V1_icon.ico MMEngine.py
